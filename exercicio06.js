@@ -8,6 +8,6 @@ if (alturaEmCm < 180) {
     console.log("Ponteiro");
 } else if (alturaEmCm >= 196 && alturaEmCm <= 205) {
     console.log("Oposto");
-} else if (alturaEmCm > 205) {
+} else {
     console.log("Central");
 }
